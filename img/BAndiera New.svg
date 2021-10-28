@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.841" height="35.247" viewBox="0 0 33.841 35.247">
+  <g id="BAndiera_New" data-name="BAndiera New" transform="translate(-708.257 -60.817)">
+    <path id="Tracciato_1" data-name="Tracciato 1" d="M706.257,44.834V80.05h1.21V44.834Z" transform="translate(2 16.014)" fill="#9696a4"/>
+    <path id="Tracciato_2" data-name="Tracciato 2" d="M711.093,63.6v19.29s8.836-6.1,12.413,0,18.093,0,18.093,0V63.6s-9.678,5.114-14.516,0S711.093,63.6,711.093,63.6Z" fill="none" stroke="#9696a4" stroke-width="1"/>
+    <g id="New" transform="translate(1)">
+      <text id="N" transform="translate(715 73)" fill="#9696a4" font-size="7" font-family="ModernEraTRIAL-Bold, Modern Era TRIAL" font-weight="700" letter-spacing="0.01em"><tspan x="0" y="0">N</tspan></text>
+      <text id="E" transform="translate(723 76)" fill="#9696a4" font-size="7" font-family="ModernEraTRIAL-Bold, Modern Era TRIAL" font-weight="700" letter-spacing="0.01em"><tspan x="0" y="0">E</tspan></text>
+      <text id="W" transform="translate(730 79)" fill="#9696a4" font-size="7" font-family="ModernEraTRIAL-Bold, Modern Era TRIAL" font-weight="700" letter-spacing="0.01em"><tspan x="0" y="0">W</tspan></text>
+    </g>
+  </g>
+</svg>

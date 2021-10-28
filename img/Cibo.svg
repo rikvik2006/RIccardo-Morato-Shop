@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.482" height="33.782" viewBox="0 0 17.482 33.782">
+  <g id="Cibo" transform="translate(-1027.116 -43.779)">
+    <g id="Forchetta">
+      <path id="Tracciato_5" data-name="Tracciato 5" d="M1034.8,80.561V47.688" transform="translate(-4 -3)" fill="none" stroke="#9696a4" stroke-width="1"/>
+      <path id="Tracciato_7" data-name="Tracciato 7" d="M1032.048,57.018s1.379.077,2.4-1.909c.456-.854.364-3.306.309-7.325" transform="translate(-1 -3.096)" fill="none" stroke="#9696a4" stroke-width="1"/>
+      <path id="Tracciato_8" data-name="Tracciato 8" d="M1034.8,57.018s-1.379.077-2.4-1.909c-.456-.854-.364-3.306-.309-7.325" transform="translate(-4.448 -3.096)" fill="none" stroke="#9696a4" stroke-width="1"/>
+    </g>
+    <g id="Coltello">
+      <path id="Tracciato_11" data-name="Tracciato 11" d="M1034.8,80.561V47.688s3.33,2.112,4.707,11.285a78.114,78.114,0,0,1,.588,8.873" transform="translate(4 -3)" fill="none" stroke="#9696a4" stroke-width="1"/>
+      <line id="Linea_1" data-name="Linea 1" x1="6" transform="translate(1038.5 64.343)" fill="none" stroke="#9696a4" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
