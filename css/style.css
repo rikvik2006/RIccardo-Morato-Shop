@@ -5,3 +5,8 @@
     text-decoration: none;
 }
 
+#shop {
+   position: absolute;
+   left: 584px; 
+   top: 54px; 
+}
